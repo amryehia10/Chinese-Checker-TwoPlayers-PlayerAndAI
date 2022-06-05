@@ -1,1 +1,1 @@
-# Chinese-Checker-TwoPlayers-PlayerAndAI
+# Chinese-Checkers-TwoPlayers-PlayerAndAI
